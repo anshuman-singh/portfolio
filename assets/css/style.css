@@ -1073,6 +1073,10 @@ section {
   padding: 20px 0 30px 0;
   background: #fff;
 }
+.contact .info-box .bx-envelope:hover, .contact .info-box .bx-phone-call:hover{
+  background: #ffb727;
+  color: #fff6e4;
+}
 
 .contact .info-box i.bx {
   font-size: 24px;
